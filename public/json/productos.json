@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Bestprotein",
+        "marca": "Proscience",
+        "precio": 80.000,
+        "stock": 15,
+        "img": "bestprotein.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "nombre": "Bipro lite",
+        "marca": "Whey Protein",
+        "precio": 145.000,
+        "stock": 15,
+        "img": "bipro.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 3,
+        "nombre": "Castaño De Indias",
+        "marca": "Milelliun",
+        "precio": 40000,
+        "stock": 15,
+        "img": "castaño.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 4,
+        "nombre": "Creatine",
+        "marca": "Nutramerica",
+        "precio": 70.000,
+        "stock": 15,
+        "img": "creatine2.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 5,
+        "nombre": "Bipro",
+        "marca": "Whey Protein",
+        "precio": 145.000,
+        "stock": 15,
+        "img": "imgbipro.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 6,
+        "nombre": "Creatine",
+        "marca": "Nutramerica",
+        "precio": 90.000,
+        "stock": 15,
+        "img": "imgcreatine.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 7,
+        "nombre": "Propoleo",
+        "marca": "Natural Freshly",
+        "precio": 80.000,
+        "stock": 15,
+        "img": "propoleo.png"
+    },
+    {
+        "id": 8,
+        "idCategoria": 8,
+        "nombre": "Gol standar",
+        "marca": "Whey Protein",
+        "precio": 150.000,
+        "stock": 15,
+        "img": "proteina5.png"
+    },
+    {
+        "id": 9,
+        "idCategoria": 9,
+        "nombre": "Whey advance",
+        "marca": "Whey Protein",
+        "precio": 120.000,
+        "stock": 15,
+        "img": "proteina6.png"
+    }
+]
