@@ -1,10 +1,15 @@
 import { Cartwidget } from "../Cartwidget/Cartwidget";
 import { Categorias } from "./Categorias/Categorias";
 import { Secciones } from "./Secciones/Secciones";
+import { BotonDarkMode } from "./BotonDarkMode/BotonDarkMode";
+
+
+import { useDarkModeContext } from "../../context/DarkModeContext";
 
 export const Navbar = ({ nombre }) => {
+  const {darkMode} = useDarkModeContext()
   return (
-    <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
+    <nav className={`navbar navbar-expand-lg ${darkMode? "navbar-dark bg-primary": "bg-light"}`}>
       <div className="container-fluid">
         <a className="navbar-brand" href="/">
           {nombre}
@@ -26,6 +31,7 @@ export const Navbar = ({ nombre }) => {
             <Categorias />
           </ul>
           <Cartwidget cantcarrito={10} />
+          <BotonDarkMode/>
         </div>
       </div>
     </nav>

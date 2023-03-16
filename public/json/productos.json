@@ -6,7 +6,7 @@
         "marca": "Proscience",
         "precio": 80.000,
         "stock": 15,
-        "img": "bestprotein.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/renueva-tu-salud-46586.appspot.com/o/bestprotein.jpg?alt=media&token=fc5dbb47-c16f-4ee6-a8b7-a11326a62e3c"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "marca": "Whey Protein",
         "precio": 145.000,
         "stock": 15,
-        "img": "bipro.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/renueva-tu-salud-46586.appspot.com/o/bipro.jpg?alt=media&token=6692a86b-db42-485e-b5da-aaee0f86502b"
     },
     {
         "id": 3,
@@ -24,7 +24,7 @@
         "marca": "Milelliun",
         "precio": 40000,
         "stock": 15,
-        "img": "castaño.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/renueva-tu-salud-46586.appspot.com/o/casta%C3%B1o.jpg?alt=media&token=156051a4-7dcc-4568-81ea-039e9f9c8ecd"
     },
     {
         "id": 4,
@@ -33,7 +33,7 @@
         "marca": "Nutramerica",
         "precio": 70.000,
         "stock": 15,
-        "img": "creatine2.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/renueva-tu-salud-46586.appspot.com/o/creatine2.jpg?alt=media&token=4e701b68-cc60-4016-8ab3-73fff4fd9f37"
     },
     {
         "id": 5,
@@ -42,7 +42,7 @@
         "marca": "Whey Protein",
         "precio": 145.000,
         "stock": 15,
-        "img": "imgbipro.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/renueva-tu-salud-46586.appspot.com/o/imgbipro.jpg?alt=media&token=9d53a0dc-ab64-4e97-a83f-a0013732adbb"
     },
     {
         "id": 6,
@@ -51,7 +51,7 @@
         "marca": "Nutramerica",
         "precio": 90.000,
         "stock": 15,
-        "img": "imgcreatine.jpg"
+        "img": "https://firebasestorage.googleapis.com/v0/b/renueva-tu-salud-46586.appspot.com/o/imgcreatine.jpg?alt=media&token=43408656-5cc0-44f2-b59a-32d09d769773"
     },
     {
         "id": 7,
@@ -60,7 +60,7 @@
         "marca": "Natural Freshly",
         "precio": 80.000,
         "stock": 15,
-        "img": "propoleo.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/renueva-tu-salud-46586.appspot.com/o/propoleo.png?alt=media&token=03afe07d-76c0-43b1-a2ac-ccedf9fcf019"
     },
     {
         "id": 8,
@@ -69,7 +69,7 @@
         "marca": "Whey Protein",
         "precio": 150.000,
         "stock": 15,
-        "img": "proteina5.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/renueva-tu-salud-46586.appspot.com/o/proteina5.png?alt=media&token=dcdab962-1bd3-4b08-a237-d46de070cdbd"
     },
     {
         "id": 9,
@@ -78,6 +78,6 @@
         "marca": "Whey Protein",
         "precio": 120.000,
         "stock": 15,
-        "img": "proteina6.png"
+        "img": "https://firebasestorage.googleapis.com/v0/b/renueva-tu-salud-46586.appspot.com/o/proteina6.png?alt=media&token=3e8fdb38-ade9-4f3b-a98f-0dc6efb3327e"
     }
 ]
